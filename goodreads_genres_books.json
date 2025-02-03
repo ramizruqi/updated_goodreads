@@ -1,0 +1,2673 @@
+[
+    {
+        "title": "Jane Eyre",
+        "authors": [
+            "Charlotte Brontë",
+            "Michael Mason"
+        ],
+        "publisher": "N/A",
+        "page_count": 532,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1557343311i/10210.jpg",
+        "isbn": "9780142437209",
+        "link": "https://www.goodreads.com/book/show/10210.Jane_Eyre"
+    },
+    {
+        "title": "1984",
+        "authors": [
+            "George Orwell",
+            "Thomas Pynchon"
+        ],
+        "publisher": "N/A",
+        "page_count": 368,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657781256i/61439040.jpg",
+        "isbn": "9780452284234",
+        "link": "https://www.goodreads.com/book/show/61439040-1984"
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "authors": [
+            "Oscar Wilde",
+            "Robert Mighall"
+        ],
+        "publisher": "N/A",
+        "page_count": 253,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454087681i/489732.jpg",
+        "isbn": "9780141439570",
+        "link": "https://www.goodreads.com/book/show/489732.The_Picture_of_Dorian_Gray"
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "authors": [
+            "J.D. Salinger"
+        ],
+        "publisher": "N/A",
+        "page_count": 277,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398034300i/5107.jpg",
+        "isbn": "9780316769174",
+        "link": "https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye"
+    },
+    {
+        "title": "Dracula",
+        "authors": [
+            "Bram Stoker",
+            "Rubén Toledo",
+            "Nina Auerbach",
+            "David J. Skal"
+        ],
+        "publisher": "N/A",
+        "page_count": 488,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387151694i/17245.jpg",
+        "isbn": "9780393970128",
+        "link": "https://www.goodreads.com/book/show/17245.Dracula"
+    },
+    {
+        "title": "Great Expectations",
+        "authors": [
+            "Charles Dickens",
+            "Kate Flint",
+            "Margaret Cardwell"
+        ],
+        "publisher": "N/A",
+        "page_count": 544,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631687432i/2623.jpg",
+        "isbn": "9780192833594",
+        "link": "https://www.goodreads.com/book/show/2623.Great_Expectations"
+    },
+    {
+        "title": "A Tale of Two Cities",
+        "authors": [
+            "Charles Dickens",
+            "Richard Maxwell"
+        ],
+        "publisher": "N/A",
+        "page_count": 489,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344922523i/1953.jpg",
+        "isbn": "9780141439600",
+        "link": "https://www.goodreads.com/book/show/1953.A_Tale_of_Two_Cities"
+    },
+    {
+        "title": "Macbeth",
+        "authors": [
+            "William Shakespeare",
+            "Carmen Kahn",
+            "Jack Armstrong"
+        ],
+        "publisher": "N/A",
+        "page_count": 214,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671466418i/43913694.jpg",
+        "isbn": "9780998809106",
+        "link": "https://www.goodreads.com/book/show/43913694-macbeth"
+    },
+    {
+        "title": "The Little Prince",
+        "authors": [
+            "Antoine de Saint-Exupéry",
+            "Richard Howard"
+        ],
+        "publisher": "N/A",
+        "page_count": 96,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1367545443i/157993.jpg",
+        "isbn": "9780152023980",
+        "link": "https://www.goodreads.com/book/show/157993.The_Little_Prince"
+    },
+    {
+        "title": "The Metamorphosis",
+        "authors": [
+            "Franz Kafka",
+            "Stanley Corngold"
+        ],
+        "publisher": "N/A",
+        "page_count": 201,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646444605i/485894.jpg",
+        "isbn": "9780553213690",
+        "link": "https://www.goodreads.com/book/show/485894.The_Metamorphosis"
+    },
+    {
+        "title": "Northanger Abbey",
+        "authors": [
+            "Jane Austen",
+            "Alfred Mac Adam"
+        ],
+        "publisher": "N/A",
+        "page_count": 260,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388201718i/50398.jpg",
+        "isbn": "9781593082642",
+        "link": "https://www.goodreads.com/book/show/50398.Northanger_Abbey"
+    },
+    {
+        "title": "Anne of Green Gables (Anne of Green Gables, #1)",
+        "authors": [
+            "L.M. Montgomery"
+        ],
+        "publisher": "N/A",
+        "page_count": 320,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1615094578i/8127.jpg",
+        "isbn": "9780451528827",
+        "link": "https://www.goodreads.com/book/show/8127.Anne_of_Green_Gables"
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "authors": [
+            "John Steinbeck"
+        ],
+        "publisher": "N/A",
+        "page_count": 496,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375670575i/18114322.jpg",
+        "isbn": "9780670016907",
+        "link": "https://www.goodreads.com/book/show/18114322-the-grapes-of-wrath"
+    },
+    {
+        "title": "The Stranger",
+        "authors": [
+            "Albert Camus",
+            "Matthew  Ward"
+        ],
+        "publisher": "N/A",
+        "page_count": 123,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590930002i/49552.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/49552.The_Stranger"
+    },
+    {
+        "title": "Moby-Dick or, The Whale",
+        "authors": [
+            "Herman Melville",
+            "Andrew Delbanco",
+            "Tom Quirk"
+        ],
+        "publisher": "N/A",
+        "page_count": 720,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327940656i/153747.jpg",
+        "isbn": "9780142437247",
+        "link": "https://www.goodreads.com/book/show/153747.Moby_Dick_or_The_Whale"
+    },
+    {
+        "title": "War and Peace",
+        "authors": [
+            "Leo Tolstoy",
+            "Aylmer Maude",
+            "Louise Maude"
+        ],
+        "publisher": "N/A",
+        "page_count": 1392,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1413215930i/656.jpg",
+        "isbn": "9780192833983",
+        "link": "https://www.goodreads.com/book/show/656.War_and_Peace"
+    },
+    {
+        "title": "The Handmaid&apos;s Tale",
+        "authors": [
+            "Margaret Atwood"
+        ],
+        "publisher": "N/A",
+        "page_count": 320,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1488552336i/34454589.jpg",
+        "isbn": "9781328879943",
+        "link": "https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale"
+    },
+    {
+        "title": "Gone With the Wind",
+        "authors": [
+            "Margaret Mitchell",
+            "Pat Conroy"
+        ],
+        "publisher": "N/A",
+        "page_count": 959,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1635768733i/34689759.jpg",
+        "isbn": "9781451635621",
+        "link": "https://www.goodreads.com/book/show/34689759-gone-with-the-wind"
+    },
+    {
+        "title": "Catch-22",
+        "authors": [
+            "Joseph Heller"
+        ],
+        "publisher": "N/A",
+        "page_count": 453,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1463157317i/168668.jpg",
+        "isbn": "9780684833392",
+        "link": "https://www.goodreads.com/book/show/168668.Catch_22"
+    },
+    {
+        "title": "The Fellowship of the Ring (The Lord of the Rings, #1)",
+        "authors": [
+            "J.R.R. Tolkien"
+        ],
+        "publisher": "N/A",
+        "page_count": 432,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654215925i/61215351.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/61215351-the-fellowship-of-the-ring"
+    },
+    {
+        "title": "The Outsiders",
+        "authors": [
+            "S.E. Hinton"
+        ],
+        "publisher": "N/A",
+        "page_count": 214,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689626520i/192566704.jpg",
+        "isbn": "9780142407332",
+        "link": "https://www.goodreads.com/book/show/192566704-the-outsiders"
+    },
+    {
+        "title": "The Importance of Being Earnest",
+        "authors": [
+            "Oscar Wilde"
+        ],
+        "publisher": "N/A",
+        "page_count": 89,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1298438452i/92303.jpg",
+        "isbn": "9781580495806",
+        "link": "https://www.goodreads.com/book/show/92303.The_Importance_of_Being_Earnest"
+    },
+    {
+        "title": "Othello",
+        "authors": [
+            "William Shakespeare",
+            "Barbara A. Mowat",
+            "Paul Werstine"
+        ],
+        "publisher": "N/A",
+        "page_count": 319,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1459795105i/12996.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/12996.Othello"
+    },
+    {
+        "title": "The Giver (The Giver, #1)",
+        "authors": [
+            "Lois Lowry"
+        ],
+        "publisher": "N/A",
+        "page_count": 208,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1342493368i/3636.jpg",
+        "isbn": "9780385732550",
+        "link": "https://www.goodreads.com/book/show/3636.The_Giver"
+    },
+    {
+        "title": "The Crucible",
+        "authors": [
+            "Arthur Miller",
+            "Christopher W.E. Bigsby"
+        ],
+        "publisher": "N/A",
+        "page_count": 143,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1547467608i/17250.jpg",
+        "isbn": "9780142437339",
+        "link": "https://www.goodreads.com/book/show/17250.The_Crucible"
+    },
+    {
+        "title": "The Wonderful Wizard of Oz (Oz, #1)",
+        "authors": [
+            "L. Frank Baum",
+            "W.W. Denslow"
+        ],
+        "publisher": "N/A",
+        "page_count": 154,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398003737i/236093.jpg",
+        "isbn": "9780140621679",
+        "link": "https://www.goodreads.com/book/show/236093.The_Wonderful_Wizard_of_Oz"
+    },
+    {
+        "title": "The Sun Also Rises",
+        "authors": [
+            "Ernest Hemingway"
+        ],
+        "publisher": "N/A",
+        "page_count": 189,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1509802323i/3876.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/3876.The_Sun_Also_Rises"
+    },
+    {
+        "title": "Gulliver’s Travels",
+        "authors": [
+            "Jonathan Swift",
+            "Robert DeMaria Jr."
+        ],
+        "publisher": "N/A",
+        "page_count": 306,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1427829692i/7733.jpg",
+        "isbn": "9780141439495",
+        "link": "https://www.goodreads.com/book/show/7733.Gulliver_s_Travels"
+    },
+    {
+        "title": "The Canterbury Tales",
+        "authors": [
+            "Geoffrey Chaucer",
+            "Nevill Coghill"
+        ],
+        "publisher": "N/A",
+        "page_count": 504,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1261208589i/2696.jpg",
+        "isbn": "9780140424386",
+        "link": "https://www.goodreads.com/book/show/2696.The_Canterbury_Tales"
+    },
+    {
+        "title": "Middlemarch",
+        "authors": [
+            "George Eliot",
+            "Michel Faber"
+        ],
+        "publisher": "N/A",
+        "page_count": 912,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1568307771i/19089.jpg",
+        "isbn": "9780451529176",
+        "link": "https://www.goodreads.com/book/show/19089.Middlemarch"
+    },
+    {
+        "title": "A Little Princess",
+        "authors": [
+            "Frances Hodgson Burnett",
+            "U.C. Knoepflmacher"
+        ],
+        "publisher": "N/A",
+        "page_count": 242,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327868556i/3008.jpg",
+        "isbn": "9780142437018",
+        "link": "https://www.goodreads.com/book/show/3008.A_Little_Princess"
+    },
+    {
+        "title": "To the Lighthouse",
+        "authors": [
+            "Virginia Woolf",
+            "Eudora Welty"
+        ],
+        "publisher": "N/A",
+        "page_count": 209,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639106809i/59716.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/59716.To_the_Lighthouse"
+    },
+    {
+        "title": "Around the World in Eighty Days",
+        "authors": [
+            "Jules Verne",
+            "Brian W. Aldiss",
+            "Michael Glencross"
+        ],
+        "publisher": "N/A",
+        "page_count": 252,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1684014860i/54479.jpg",
+        "isbn": "9780140449068",
+        "link": "https://www.goodreads.com/book/show/54479.Around_the_World_in_Eighty_Days"
+    },
+    {
+        "title": "The Age of Innocence",
+        "authors": [
+            "Edith Wharton",
+            "Maureen Howard"
+        ],
+        "publisher": "N/A",
+        "page_count": 293,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388248423i/53835.jpg",
+        "isbn": "9781593081430",
+        "link": "https://www.goodreads.com/book/show/53835.The_Age_of_Innocence"
+    },
+    {
+        "title": "Flowers for Algernon",
+        "authors": [
+            "Daniel Keyes"
+        ],
+        "publisher": "N/A",
+        "page_count": 311,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689071681i/18373.jpg",
+        "isbn": "9780156030083",
+        "link": "https://www.goodreads.com/book/show/18373.Flowers_for_Algernon"
+    },
+    {
+        "title": "Inferno",
+        "authors": [
+            "Dante Alighieri",
+            "Anthony Esolen"
+        ],
+        "publisher": "N/A",
+        "page_count": 490,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1520255019i/15645.jpg",
+        "isbn": "9780812970067",
+        "link": "https://www.goodreads.com/book/show/15645.Inferno"
+    },
+    {
+        "title": "Their Eyes Were Watching God",
+        "authors": [
+            "Zora Neale Hurston"
+        ],
+        "publisher": "N/A",
+        "page_count": 238,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1368072803i/37415.jpg",
+        "isbn": "9780061120060",
+        "link": "https://www.goodreads.com/book/show/37415.Their_Eyes_Were_Watching_God"
+    },
+    {
+        "title": "Twenty Thousand Leagues Under the Sea (Captain Nemo, #2)",
+        "authors": [
+            "Jules Verne",
+            "Anthony Bonner"
+        ],
+        "publisher": "N/A",
+        "page_count": 269,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494979127i/33507.jpg",
+        "isbn": "9780760728505",
+        "link": "https://www.goodreads.com/book/show/33507.Twenty_Thousand_Leagues_Under_the_Sea"
+    },
+    {
+        "title": "Uncle Tom’s Cabin",
+        "authors": [
+            "Harriet Beecher Stowe"
+        ],
+        "publisher": "N/A",
+        "page_count": 438,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1414349231i/46787.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/46787.Uncle_Tom_s_Cabin"
+    },
+    {
+        "title": "A Room with a View",
+        "authors": [
+            "E.M. Forster"
+        ],
+        "publisher": "N/A",
+        "page_count": 119,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388781285i/3087.jpg",
+        "isbn": "9781420925432",
+        "link": "https://www.goodreads.com/book/show/3087.A_Room_with_a_View"
+    },
+    {
+        "title": "A Room of One’s Own",
+        "authors": [
+            "Virginia Woolf"
+        ],
+        "publisher": "N/A",
+        "page_count": 112,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327883012i/18521.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/18521.A_Room_of_One_s_Own"
+    },
+    {
+        "title": "Beloved (Beloved Trilogy, #1)",
+        "authors": [
+            "Toni Morrison"
+        ],
+        "publisher": "N/A",
+        "page_count": 325,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1722944318i/6149.jpg",
+        "isbn": "9781400033416",
+        "link": "https://www.goodreads.com/book/show/6149.Beloved"
+    },
+    {
+        "title": "The Woman in White",
+        "authors": [
+            "Wilkie Collins",
+            "Matthew Sweet"
+        ],
+        "publisher": "N/A",
+        "page_count": 672,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1295661017i/5890.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/5890.The_Woman_in_White"
+    },
+    {
+        "title": "Watership Down (Watership Down, #1)",
+        "authors": [
+            "Richard  Adams"
+        ],
+        "publisher": "N/A",
+        "page_count": 478,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1405136931i/76620.jpg",
+        "isbn": "9780380395866",
+        "link": "https://www.goodreads.com/book/show/76620.Watership_Down"
+    },
+    {
+        "title": "Far From the Madding Crowd",
+        "authors": [
+            "Thomas Hardy",
+            "Rosemarie Morgan",
+            "Shannon Russell"
+        ],
+        "publisher": "N/A",
+        "page_count": 433,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631259654i/31463.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/31463.Far_From_the_Madding_Crowd"
+    },
+    {
+        "title": "The Awakening",
+        "authors": [
+            "Kate Chopin"
+        ],
+        "publisher": "N/A",
+        "page_count": 195,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1170507247i/58345.jpg",
+        "isbn": "9780543898081",
+        "link": "https://www.goodreads.com/book/show/58345.The_Awakening"
+    },
+    {
+        "title": "Night",
+        "authors": [
+            "Elie Wiesel",
+            "Marion Wiesel",
+            "François Mauriac"
+        ],
+        "publisher": "N/A",
+        "page_count": 120,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1709507006i/1617.jpg",
+        "isbn": "9780374500016",
+        "link": "https://www.goodreads.com/book/show/1617.Night"
+    },
+    {
+        "title": "A Wrinkle in Time (Time Quintet, #1)",
+        "authors": [
+            "Madeleine L&apos;Engle"
+        ],
+        "publisher": "N/A",
+        "page_count": 218,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507963312i/33574273.jpg",
+        "isbn": "9781250153272",
+        "link": "https://www.goodreads.com/book/show/33574273-a-wrinkle-in-time"
+    },
+    {
+        "title": "The Pearl",
+        "authors": [
+            "John Steinbeck"
+        ],
+        "publisher": "N/A",
+        "page_count": 96,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1437234939i/5308.jpg",
+        "isbn": "9780142000694",
+        "link": "https://www.goodreads.com/book/show/5308.The_Pearl"
+    },
+    {
+        "title": "The Wind in the Willows",
+        "authors": [
+            "Kenneth Grahame",
+            "Gillian Avery"
+        ],
+        "publisher": "N/A",
+        "page_count": 197,
+        "language": "English",
+        "category": "classics",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1731896433i/5659.jpg",
+        "isbn": "9780143039099",
+        "link": "https://www.goodreads.com/book/show/5659.The_Wind_in_the_Willows"
+    },
+    {
+        "title": "Dune (Dune, #1)",
+        "authors": [
+            "Frank Herbert"
+        ],
+        "publisher": "N/A",
+        "page_count": 658,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555447414i/44767458.jpg",
+        "isbn": "9780593099322",
+        "link": "https://www.goodreads.com/book/show/44767458-dune"
+    },
+    {
+        "title": "Ender’s Game (Ender&apos;s Saga, #1)",
+        "authors": [
+            "Orson Scott Card"
+        ],
+        "publisher": "N/A",
+        "page_count": 324,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408303130i/375802.jpg",
+        "isbn": "9780812550702",
+        "link": "https://www.goodreads.com/book/show/375802.Ender_s_Game"
+    },
+    {
+        "title": "The Hitchhiker’s Guide to the Galaxy (Hitchhiker&apos;s Guide to the Galaxy, #1)",
+        "authors": [
+            "Douglas Adams"
+        ],
+        "publisher": "N/A",
+        "page_count": 216,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1531891848i/11.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy"
+    },
+    {
+        "title": "The Martian",
+        "authors": [
+            "Andy Weir"
+        ],
+        "publisher": "N/A",
+        "page_count": 384,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1413706054i/18007564.jpg",
+        "isbn": "9780804139021",
+        "link": "https://www.goodreads.com/book/show/18007564-the-martian"
+    },
+    {
+        "title": "Fahrenheit 451",
+        "authors": [
+            "Ray Bradbury"
+        ],
+        "publisher": "N/A",
+        "page_count": 194,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1383718290i/13079982.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/13079982-fahrenheit-451"
+    },
+    {
+        "title": "Ready Player One (Ready Player One, #1)",
+        "authors": [
+            "Ernest Cline"
+        ],
+        "publisher": "N/A",
+        "page_count": 480,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1500930947i/9969571.jpg",
+        "isbn": "9780307887436",
+        "link": "https://www.goodreads.com/book/show/9969571-ready-player-one"
+    },
+    {
+        "title": "1984",
+        "authors": [
+            "George Orwell",
+            "Thomas Pynchon"
+        ],
+        "publisher": "N/A",
+        "page_count": 368,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657781256i/61439040.jpg",
+        "isbn": "9780452284234",
+        "link": "https://www.goodreads.com/book/show/61439040-1984"
+    },
+    {
+        "title": "The Hunger Games (The Hunger Games, #1)",
+        "authors": [
+            "Suzanne Collins"
+        ],
+        "publisher": "N/A",
+        "page_count": 374,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586722975i/2767052.jpg",
+        "isbn": "9780439023481",
+        "link": "https://www.goodreads.com/book/show/2767052-the-hunger-games"
+    },
+    {
+        "title": "Foundation (Foundation, #1)",
+        "authors": [
+            "Isaac Asimov"
+        ],
+        "publisher": "N/A",
+        "page_count": 244,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1417900846i/29579.jpg",
+        "isbn": "9780553803716",
+        "link": "https://www.goodreads.com/book/show/29579.Foundation"
+    },
+    {
+        "title": "Do Androids Dream of Electric Sheep?",
+        "authors": [
+            "Philip K. Dick"
+        ],
+        "publisher": "N/A",
+        "page_count": 258,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507838927i/36402034.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/36402034-do-androids-dream-of-electric-sheep"
+    },
+    {
+        "title": "Project Hail Mary",
+        "authors": [
+            "Andy Weir"
+        ],
+        "publisher": "N/A",
+        "page_count": 476,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597695864i/54493401.jpg",
+        "isbn": "9780593135204",
+        "link": "https://www.goodreads.com/book/show/54493401-project-hail-mary"
+    },
+    {
+        "title": "Catching Fire (The Hunger Games, #2)",
+        "authors": [
+            "Suzanne Collins"
+        ],
+        "publisher": "N/A",
+        "page_count": 391,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586722941i/6148028.jpg",
+        "isbn": "9780439023498",
+        "link": "https://www.goodreads.com/book/show/6148028-catching-fire"
+    },
+    {
+        "title": "The Three-Body Problem (Remembrance of Earth’s Past, #1)",
+        "authors": [
+            "Liu Cixin",
+            "Ken Liu"
+        ],
+        "publisher": "N/A",
+        "page_count": 472,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415428227i/20518872.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/20518872-the-three-body-problem"
+    },
+    {
+        "title": "Mockingjay (The Hunger Games, #3)",
+        "authors": [
+            "Suzanne Collins"
+        ],
+        "publisher": "N/A",
+        "page_count": 390,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586722918i/7260188.jpg",
+        "isbn": "9780439023511",
+        "link": "https://www.goodreads.com/book/show/7260188-mockingjay"
+    },
+    {
+        "title": "All Systems Red (The Murderbot Diaries, #1)",
+        "authors": [
+            "Martha Wells"
+        ],
+        "publisher": "N/A",
+        "page_count": 144,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631585309i/32758901.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/32758901-all-systems-red"
+    },
+    {
+        "title": "Neuromancer (Sprawl, #1)",
+        "authors": [
+            "William Gibson"
+        ],
+        "publisher": "N/A",
+        "page_count": 288,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554437249i/6088007.jpg",
+        "isbn": "9781101146460",
+        "link": "https://www.goodreads.com/book/show/6088007-neuromancer"
+    },
+    {
+        "title": "The Time Machine",
+        "authors": [
+            "H.G. Wells",
+            "Greg Bear",
+            "Carlo Pagetti"
+        ],
+        "publisher": "N/A",
+        "page_count": 118,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327942880i/2493.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/2493.The_Time_Machine"
+    },
+    {
+        "title": "Leviathan Wakes (The Expanse, #1)",
+        "authors": [
+            "James S.A. Corey"
+        ],
+        "publisher": "N/A",
+        "page_count": 592,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1411013134i/8855321.jpg",
+        "isbn": "9781841499888",
+        "link": "https://www.goodreads.com/book/show/8855321-leviathan-wakes"
+    },
+    {
+        "title": "I, Robot (Robot, #0.1)",
+        "authors": [
+            "Isaac Asimov"
+        ],
+        "publisher": "N/A",
+        "page_count": 224,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1609035271i/41804.jpg",
+        "isbn": "9780553803709",
+        "link": "https://www.goodreads.com/book/show/41804.I_Robot"
+    },
+    {
+        "title": "Dark Matter",
+        "authors": [
+            "Blake Crouch"
+        ],
+        "publisher": "N/A",
+        "page_count": 342,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1472119680i/27833670.jpg",
+        "isbn": "9781101904220",
+        "link": "https://www.goodreads.com/book/show/27833670-dark-matter"
+    },
+    {
+        "title": "Red Rising (Red Rising Saga, #1)",
+        "authors": [
+            "Pierce Brown"
+        ],
+        "publisher": "N/A",
+        "page_count": 382,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1461354651i/15839976.jpg",
+        "isbn": "9780345539786",
+        "link": "https://www.goodreads.com/book/show/15839976-red-rising"
+    },
+    {
+        "title": "Jurassic Park (Jurassic Park, #1)",
+        "authors": [
+            "Michael Crichton"
+        ],
+        "publisher": "N/A",
+        "page_count": 466,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529604411i/40604658.jpg",
+        "isbn": "9780307763051",
+        "link": "https://www.goodreads.com/book/show/40604658-jurassic-park"
+    },
+    {
+        "title": "Dune Messiah (Dune #2)",
+        "authors": [
+            "Frank Herbert",
+            "Brian Herbert"
+        ],
+        "publisher": "N/A",
+        "page_count": 336,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1577043824i/44492285.jpg",
+        "isbn": "9780593098233",
+        "link": "https://www.goodreads.com/book/show/44492285-dune-messiah"
+    },
+    {
+        "title": "Hyperion (Hyperion Cantos, #1)",
+        "authors": [
+            "Dan Simmons"
+        ],
+        "publisher": "N/A",
+        "page_count": 500,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1405546838i/77566.jpg",
+        "isbn": "9780553283686",
+        "link": "https://www.goodreads.com/book/show/77566.Hyperion"
+    },
+    {
+        "title": "The Left Hand of Darkness",
+        "authors": [
+            "Ursula K. Le Guin"
+        ],
+        "publisher": "N/A",
+        "page_count": 304,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1488213612i/18423.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness"
+    },
+    {
+        "title": "2001: A Space Odyssey (Space Odyssey, #1)",
+        "authors": [
+            "Arthur C. Clarke"
+        ],
+        "publisher": "N/A",
+        "page_count": 297,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432468943i/70535.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/70535.2001"
+    },
+    {
+        "title": "The War of the Worlds",
+        "authors": [
+            "H.G. Wells",
+            "Arthur C. Clarke"
+        ],
+        "publisher": "N/A",
+        "page_count": 192,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320391644i/8909.jpg",
+        "isbn": "9780375759239",
+        "link": "https://www.goodreads.com/book/show/8909.The_War_of_the_Worlds"
+    },
+    {
+        "title": "Divergent (Divergent, #1)",
+        "authors": [
+            "Veronica Roth"
+        ],
+        "publisher": "N/A",
+        "page_count": 487,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618526890i/13335037.jpg",
+        "isbn": "9780062024039",
+        "link": "https://www.goodreads.com/book/show/13335037-divergent"
+    },
+    {
+        "title": "The Handmaid&apos;s Tale",
+        "authors": [
+            "Margaret Atwood"
+        ],
+        "publisher": "N/A",
+        "page_count": 320,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1488552336i/34454589.jpg",
+        "isbn": "9781328879943",
+        "link": "https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale"
+    },
+    {
+        "title": "The Restaurant at the End of the Universe (The Hitchhiker&apos;s Guide to the Galaxy, #2)",
+        "authors": [
+            "Douglas Adams"
+        ],
+        "publisher": "N/A",
+        "page_count": 250,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1521213881i/8695.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/8695.The_Restaurant_at_the_End_of_the_Universe"
+    },
+    {
+        "title": "Frankenstein: The 1818 Text",
+        "authors": [
+            "Mary Wollstonecraft Shelley",
+            "Charlotte Gordon"
+        ],
+        "publisher": "N/A",
+        "page_count": 260,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631088473i/35031085.jpg",
+        "isbn": "9780143131847",
+        "link": "https://www.goodreads.com/book/show/35031085-frankenstein"
+    },
+    {
+        "title": "Stranger in a Strange Land",
+        "authors": [
+            "Robert A. Heinlein",
+            "James Warhola"
+        ],
+        "publisher": "N/A",
+        "page_count": 525,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1156897088i/350.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land"
+    },
+    {
+        "title": "The Martian Chronicles",
+        "authors": [
+            "Ray Bradbury",
+            "Michael Whelan"
+        ],
+        "publisher": "N/A",
+        "page_count": 182,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661016554i/76778.jpg",
+        "isbn": "9780553278224",
+        "link": "https://www.goodreads.com/book/show/76778.The_Martian_Chronicles"
+    },
+    {
+        "title": "Slaughterhouse-Five",
+        "authors": [
+            "Kurt Vonnegut Jr."
+        ],
+        "publisher": "N/A",
+        "page_count": 275,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440319389i/4981.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/4981.Slaughterhouse_Five"
+    },
+    {
+        "title": "Cinder (The Lunar Chronicles, #1)",
+        "authors": [
+            "Marissa Meyer"
+        ],
+        "publisher": "N/A",
+        "page_count": 400,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507557775i/36381037.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/36381037-cinder"
+    },
+    {
+        "title": "Snow Crash",
+        "authors": [
+            "Neal Stephenson"
+        ],
+        "publisher": "N/A",
+        "page_count": 576,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1656932283i/61240297.jpg",
+        "isbn": "9780593599730",
+        "link": "https://www.goodreads.com/book/show/61240297-snow-crash"
+    },
+    {
+        "title": "The Long Way to a Small, Angry Planet (Wayfarers, #1)",
+        "authors": [
+            "Becky  Chambers"
+        ],
+        "publisher": "N/A",
+        "page_count": 518,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1405532474i/22733729.jpg",
+        "isbn": "9781500453305",
+        "link": "https://www.goodreads.com/book/show/22733729-the-long-way-to-a-small-angry-planet"
+    },
+    {
+        "title": "Old Man&apos;s War (Old Man&apos;s War, #1)",
+        "authors": [
+            "John Scalzi"
+        ],
+        "publisher": "N/A",
+        "page_count": 318,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1509467059i/36510196.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/36510196-old-man-s-war"
+    },
+    {
+        "title": "The Giver (The Giver, #1)",
+        "authors": [
+            "Lois Lowry"
+        ],
+        "publisher": "N/A",
+        "page_count": 208,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1342493368i/3636.jpg",
+        "isbn": "9780385732550",
+        "link": "https://www.goodreads.com/book/show/3636.The_Giver"
+    },
+    {
+        "title": "Foundation and Empire (Foundation, #2)",
+        "authors": [
+            "Isaac Asimov"
+        ],
+        "publisher": "N/A",
+        "page_count": 256,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391454612i/29581.jpg",
+        "isbn": "9780553803723",
+        "link": "https://www.goodreads.com/book/show/29581.Foundation_and_Empire"
+    },
+    {
+        "title": "Speaker for the Dead (Ender&apos;s Saga, #2)",
+        "authors": [
+            "Orson Scott Card"
+        ],
+        "publisher": "N/A",
+        "page_count": 382,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1295660894i/7967.jpg",
+        "isbn": "9780812550757",
+        "link": "https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead"
+    },
+    {
+        "title": "Annihilation (Southern Reach, #1)",
+        "authors": [
+            "Jeff VanderMeer"
+        ],
+        "publisher": "N/A",
+        "page_count": 195,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1403941587i/17934530.jpg",
+        "isbn": "9780374104092",
+        "link": "https://www.goodreads.com/book/show/17934530-annihilation"
+    },
+    {
+        "title": "Artemis",
+        "authors": [
+            "Andy Weir"
+        ],
+        "publisher": "N/A",
+        "page_count": 305,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494273579i/34928122.jpg",
+        "isbn": "9780553448122",
+        "link": "https://www.goodreads.com/book/show/34928122-artemis"
+    },
+    {
+        "title": "A Wrinkle in Time (Time Quintet, #1)",
+        "authors": [
+            "Madeleine L&apos;Engle"
+        ],
+        "publisher": "N/A",
+        "page_count": 218,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1507963312i/33574273.jpg",
+        "isbn": "9781250153272",
+        "link": "https://www.goodreads.com/book/show/33574273-a-wrinkle-in-time"
+    },
+    {
+        "title": "Second Foundation (Foundation, #3)",
+        "authors": [
+            "Isaac Asimov"
+        ],
+        "publisher": "N/A",
+        "page_count": 256,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661015922i/29580.jpg",
+        "isbn": "9780553803730",
+        "link": "https://www.goodreads.com/book/show/29580.Second_Foundation"
+    },
+    {
+        "title": "This Is How You Lose the Time War",
+        "authors": [
+            "Amal El-Mohtar",
+            "Max Gladstone"
+        ],
+        "publisher": "N/A",
+        "page_count": 209,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653185078i/43352954.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/43352954-this-is-how-you-lose-the-time-war"
+    },
+    {
+        "title": "Children of Dune (Dune #3)",
+        "authors": [
+            "Frank Herbert"
+        ],
+        "publisher": "N/A",
+        "page_count": 609,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1564783201i/44492286.jpg",
+        "isbn": "9780593098240",
+        "link": "https://www.goodreads.com/book/show/44492286-children-of-dune"
+    },
+    {
+        "title": "Life, the Universe and Everything (The Hitchhiker&apos;s Guide to the Galaxy, #3)",
+        "authors": [
+            "Douglas Adams"
+        ],
+        "publisher": "N/A",
+        "page_count": 224,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1333577589i/8694.jpg",
+        "isbn": "9780345418906",
+        "link": "https://www.goodreads.com/book/show/8694.Life_the_Universe_and_Everything"
+    },
+    {
+        "title": "Starship Troopers",
+        "authors": [
+            "Robert A. Heinlein"
+        ],
+        "publisher": "N/A",
+        "page_count": 264,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1614054412i/17214.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/17214.Starship_Troopers"
+    },
+    {
+        "title": "The Forever War (The Forever War, #1)",
+        "authors": [
+            "Joe Haldeman"
+        ],
+        "publisher": "N/A",
+        "page_count": 278,
+        "language": "English",
+        "category": "science-fiction",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386852511i/21611.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/21611.The_Forever_War"
+    },
+    {
+        "title": "A Walk in the Woods: Rediscovering America on the Appalachian Trail",
+        "authors": [
+            "Bill Bryson"
+        ],
+        "publisher": "N/A",
+        "page_count": 397,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388189974i/9791.jpg",
+        "isbn": "9780307279460",
+        "link": "https://www.goodreads.com/book/show/9791.A_Walk_in_the_Woods"
+    },
+    {
+        "title": "In a Sunburned Country",
+        "authors": [
+            "Bill Bryson"
+        ],
+        "publisher": "N/A",
+        "page_count": 335,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388176242i/24.jpg",
+        "isbn": "9780767903868",
+        "link": "https://www.goodreads.com/book/show/24.In_a_Sunburned_Country"
+    },
+    {
+        "title": "Notes from a Small Island",
+        "authors": [
+            "Bill Bryson"
+        ],
+        "publisher": "N/A",
+        "page_count": 324,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1479653223i/28.jpg",
+        "isbn": "9780380727506",
+        "link": "https://www.goodreads.com/book/show/28.Notes_from_a_Small_Island"
+    },
+    {
+        "title": "Eat, Pray, Love",
+        "authors": [
+            "Elizabeth Gilbert"
+        ],
+        "publisher": "N/A",
+        "page_count": 368,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503066414i/19501.jpg",
+        "isbn": "9780143038412",
+        "link": "https://www.goodreads.com/book/show/19501.Eat_Pray_Love"
+    },
+    {
+        "title": "Neither Here nor There: Travels in Europe",
+        "authors": [
+            "Bill Bryson"
+        ],
+        "publisher": "N/A",
+        "page_count": 254,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388187396i/27.jpg",
+        "isbn": "9780380713806",
+        "link": "https://www.goodreads.com/book/show/27.Neither_Here_nor_There"
+    },
+    {
+        "title": "Wild: From Lost to Found on the Pacific Crest Trail",
+        "authors": [
+            "Cheryl Strayed"
+        ],
+        "publisher": "N/A",
+        "page_count": 336,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453189881i/12262741.jpg",
+        "isbn": "9780307592736",
+        "link": "https://www.goodreads.com/book/show/12262741-wild"
+    },
+    {
+        "title": "The Lost Continent: Travels in Small-Town America",
+        "authors": [
+            "Bill Bryson"
+        ],
+        "publisher": "N/A",
+        "page_count": 299,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1404042682i/26.jpg",
+        "isbn": "9780060920081",
+        "link": "https://www.goodreads.com/book/show/26.The_Lost_Continent"
+    },
+    {
+        "title": "Travels with Charley: In Search of America",
+        "authors": [
+            "John Steinbeck"
+        ],
+        "publisher": "N/A",
+        "page_count": 214,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924381i/5306.jpg",
+        "isbn": "9780142000700",
+        "link": "https://www.goodreads.com/book/show/5306.Travels_with_Charley"
+    },
+    {
+        "title": "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel",
+        "authors": [
+            "Rolf Potts",
+            "Timothy Ferriss"
+        ],
+        "publisher": "N/A",
+        "page_count": 205,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320532720i/100247.jpg",
+        "isbn": "9780812992182",
+        "link": "https://www.goodreads.com/book/show/100247.Vagabonding"
+    },
+    {
+        "title": "I&apos;m a Stranger Here Myself: Notes on Returning to America After Twenty Years Away",
+        "authors": [
+            "Bill Bryson"
+        ],
+        "publisher": "N/A",
+        "page_count": 304,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388184037i/25.jpg",
+        "isbn": "9780767903820",
+        "link": "https://www.goodreads.com/book/show/25.I_m_a_Stranger_Here_Myself"
+    },
+    {
+        "title": "A Year in Provence (Provence, #1)",
+        "authors": [
+            "Peter Mayle"
+        ],
+        "publisher": "N/A",
+        "page_count": 224,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535746681i/40189.jpg",
+        "isbn": "9780679731146",
+        "link": "https://www.goodreads.com/book/show/40189.A_Year_in_Provence"
+    },
+    {
+        "title": "The Great Railway Bazaar: By Train Through Asia",
+        "authors": [
+            "Paul Theroux"
+        ],
+        "publisher": "N/A",
+        "page_count": 342,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1699300218i/63689.jpg",
+        "isbn": "9780618658947",
+        "link": "https://www.goodreads.com/book/show/63689.The_Great_Railway_Bazaar"
+    },
+    {
+        "title": "On the Road",
+        "authors": [
+            "Jack Kerouac"
+        ],
+        "publisher": "N/A",
+        "page_count": 307,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1658929891i/70401.jpg",
+        "isbn": "9780140042597",
+        "link": "https://www.goodreads.com/book/show/70401.On_the_Road"
+    },
+    {
+        "title": "The Road to Little Dribbling: Adventures of an American in Britain",
+        "authors": [
+            "Bill Bryson"
+        ],
+        "publisher": "N/A",
+        "page_count": 380,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1444259875i/25489012.jpg",
+        "isbn": "9780385539289",
+        "link": "https://www.goodreads.com/book/show/25489012-the-road-to-little-dribbling"
+    },
+    {
+        "title": "Under the Tuscan Sun: At Home in Italy",
+        "authors": [
+            "Frances Mayes"
+        ],
+        "publisher": "N/A",
+        "page_count": 304,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320524083i/480479.jpg",
+        "isbn": "9780767900386",
+        "link": "https://www.goodreads.com/book/show/480479.Under_the_Tuscan_Sun"
+    },
+    {
+        "title": "Into Thin Air: A Personal Account of the Mt. Everest Disaster",
+        "authors": [
+            "Jon Krakauer"
+        ],
+        "publisher": "N/A",
+        "page_count": 368,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631501298i/1898.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/1898.Into_Thin_Air"
+    },
+    {
+        "title": "1,000 Places to See Before You Die: A Traveler&apos;s Life List",
+        "authors": [
+            "Patricia Schultz"
+        ],
+        "publisher": "N/A",
+        "page_count": 992,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387718704i/11525.jpg",
+        "isbn": "9780761104841",
+        "link": "https://www.goodreads.com/book/show/11525.1_000_Places_to_See_Before_You_Die"
+    },
+    {
+        "title": "The Art of Travel",
+        "authors": [
+            "Alain de Botton"
+        ],
+        "publisher": "N/A",
+        "page_count": 272,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388262692i/23422.jpg",
+        "isbn": "9780375725340",
+        "link": "https://www.goodreads.com/book/show/23422.The_Art_of_Travel"
+    },
+    {
+        "title": "The Geography of Bliss: One Grump&apos;s Search for the Happiest Places in the World",
+        "authors": [
+            "Eric    Weiner"
+        ],
+        "publisher": "N/A",
+        "page_count": 335,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347304179i/1918305.jpg",
+        "isbn": "9780446580267",
+        "link": "https://www.goodreads.com/book/show/1918305.The_Geography_of_Bliss"
+    },
+    {
+        "title": "In Patagonia",
+        "authors": [
+            "Bruce Chatwin",
+            "Nicholas Shakespeare"
+        ],
+        "publisher": "N/A",
+        "page_count": 199,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924798i/79909.jpg",
+        "isbn": "9780142437193",
+        "link": "https://www.goodreads.com/book/show/79909.In_Patagonia"
+    },
+    {
+        "title": "Blue Highways",
+        "authors": [
+            "William Least Heat-Moon"
+        ],
+        "publisher": "N/A",
+        "page_count": 428,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1425628317i/63832.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/63832.Blue_Highways"
+    },
+    {
+        "title": "A Time of Gifts (Trilogy, #1)",
+        "authors": [
+            "Patrick Leigh Fermor",
+            "Jan Morris"
+        ],
+        "publisher": "N/A",
+        "page_count": 321,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1632510834i/253984.jpg",
+        "isbn": "9781590171653",
+        "link": "https://www.goodreads.com/book/show/253984.A_Time_of_Gifts"
+    },
+    {
+        "title": "Dark Star Safari: Overland from Cairo to Cape Town",
+        "authors": [
+            "Paul Theroux"
+        ],
+        "publisher": "N/A",
+        "page_count": 485,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1441636831i/28239.jpg",
+        "isbn": "9780618446872",
+        "link": "https://www.goodreads.com/book/show/28239.Dark_Star_Safari"
+    },
+    {
+        "title": "The Sex Lives of Cannibals: Adrift in the Equatorial Pacific",
+        "authors": [
+            "J. Maarten Troost"
+        ],
+        "publisher": "N/A",
+        "page_count": 272,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924418i/11077.jpg",
+        "isbn": "9780767915304",
+        "link": "https://www.goodreads.com/book/show/11077.The_Sex_Lives_of_Cannibals"
+    },
+    {
+        "title": "Turn Right at Machu Picchu: Rediscovering the Lost City One Step at a Time",
+        "authors": [
+            "Mark Adams"
+        ],
+        "publisher": "N/A",
+        "page_count": 333,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1311704972i/10111087.jpg",
+        "isbn": "9780525952244",
+        "link": "https://www.goodreads.com/book/show/10111087-turn-right-at-machu-picchu"
+    },
+    {
+        "title": "Atlas Obscura: An Explorer&apos;s Guide to the World&apos;s Hidden Wonders",
+        "authors": [
+            "Joshua Foer",
+            "Dylan Thuras",
+            "Ella Morton"
+        ],
+        "publisher": "N/A",
+        "page_count": 470,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1469969458i/28110891.jpg",
+        "isbn": "9780761169086",
+        "link": "https://www.goodreads.com/book/show/28110891-atlas-obscura"
+    },
+    {
+        "title": "Without Reservations: The Travels of an Independent Woman",
+        "authors": [
+            "Alice Steinbach"
+        ],
+        "publisher": "N/A",
+        "page_count": 295,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1333577847i/524878.jpg",
+        "isbn": "9780375758454",
+        "link": "https://www.goodreads.com/book/show/524878.Without_Reservations"
+    },
+    {
+        "title": "Tales of a Female Nomad: Living at Large in the World",
+        "authors": [
+            "Rita Golden Gelman"
+        ],
+        "publisher": "N/A",
+        "page_count": 312,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320531284i/85622.jpg",
+        "isbn": "9780609809549",
+        "link": "https://www.goodreads.com/book/show/85622.Tales_of_a_Female_Nomad"
+    },
+    {
+        "title": "Round Ireland with a Fridge",
+        "authors": [
+            "Tony Hawks"
+        ],
+        "publisher": "N/A",
+        "page_count": 248,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1438308095i/23316.jpg",
+        "isbn": "9780312274924",
+        "link": "https://www.goodreads.com/book/show/23316.Round_Ireland_with_a_Fridge"
+    },
+    {
+        "title": "The Lost City of Z: A Tale of Deadly Obsession in the Amazon",
+        "authors": [
+            "David Grann"
+        ],
+        "publisher": "N/A",
+        "page_count": 339,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320487318i/3398625.jpg",
+        "isbn": "9780385513531",
+        "link": "https://www.goodreads.com/book/show/3398625-the-lost-city-of-z"
+    },
+    {
+        "title": "The Snow Leopard",
+        "authors": [
+            "Peter Matthiessen"
+        ],
+        "publisher": "N/A",
+        "page_count": 338,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309211772i/764165.jpg",
+        "isbn": "9780140255089",
+        "link": "https://www.goodreads.com/book/show/764165.The_Snow_Leopard"
+    },
+    {
+        "title": "The Old Patagonian Express: By Train Through the Americas",
+        "authors": [
+            "Paul Theroux"
+        ],
+        "publisher": "N/A",
+        "page_count": 430,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356445513i/130515.jpg",
+        "isbn": "9780140249798",
+        "link": "https://www.goodreads.com/book/show/130515.The_Old_Patagonian_Express"
+    },
+    {
+        "title": "Seven Years in Tibet",
+        "authors": [
+            "Heinrich Harrer"
+        ],
+        "publisher": "N/A",
+        "page_count": 330,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388251499i/270032.jpg",
+        "isbn": "9780874778885",
+        "link": "https://www.goodreads.com/book/show/270032.Seven_Years_in_Tibet"
+    },
+    {
+        "title": "The Places in Between",
+        "authors": [
+            "Rory Stewart"
+        ],
+        "publisher": "N/A",
+        "page_count": 299,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1567837295i/95643.jpg",
+        "isbn": "9780156031561",
+        "link": "https://www.goodreads.com/book/show/95643.The_Places_in_Between"
+    },
+    {
+        "title": "The Travel Book: A Journey Through Every Country in the World",
+        "authors": [
+            "Roz Hopkins",
+            "Lonely Planet",
+            "Janet Austin",
+            "Laetitia Clapton"
+        ],
+        "publisher": "N/A",
+        "page_count": 444,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391124644i/139373.jpg",
+        "isbn": "9781741046298",
+        "link": "https://www.goodreads.com/book/show/139373.The_Travel_Book"
+    },
+    {
+        "title": "The Motorcycle Diaries: Notes on a Latin American Journey",
+        "authors": [
+            "Ernesto Che Guevara",
+            "Aleida Guevara March"
+        ],
+        "publisher": "N/A",
+        "page_count": 175,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1354902593i/172732.jpg",
+        "isbn": "9781876175702",
+        "link": "https://www.goodreads.com/book/show/172732.The_Motorcycle_Diaries"
+    },
+    {
+        "title": "A Cook&apos;s Tour: Global Adventures in Extreme Cuisines",
+        "authors": [
+            "Anthony Bourdain"
+        ],
+        "publisher": "N/A",
+        "page_count": 277,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347785592i/86856.jpg",
+        "isbn": "9780060012786",
+        "link": "https://www.goodreads.com/book/show/86856.A_Cook_s_Tour"
+    },
+    {
+        "title": "Around the World in Eighty Days",
+        "authors": [
+            "Jules Verne",
+            "Brian W. Aldiss",
+            "Michael Glencross"
+        ],
+        "publisher": "N/A",
+        "page_count": 252,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1684014860i/54479.jpg",
+        "isbn": "9780140449068",
+        "link": "https://www.goodreads.com/book/show/54479.Around_the_World_in_Eighty_Days"
+    },
+    {
+        "title": "The Innocents Abroad, Or, the New Pilgrims&apos; Progress",
+        "authors": [
+            "Mark Twain",
+            "Jane Jacobs"
+        ],
+        "publisher": "N/A",
+        "page_count": 560,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388280342i/2443.jpg",
+        "isbn": "9780812967050",
+        "link": "https://www.goodreads.com/book/show/2443.The_Innocents_Abroad_Or_the_New_Pilgrims_Progress"
+    },
+    {
+        "title": "Ghost Train to the Eastern Star",
+        "authors": [
+            "Paul Theroux"
+        ],
+        "publisher": "N/A",
+        "page_count": 496,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320456657i/2071926.jpg",
+        "isbn": "9780771085338",
+        "link": "https://www.goodreads.com/book/show/2071926.Ghost_Train_to_the_Eastern_Star"
+    },
+    {
+        "title": "A Short Walk in the Hindu Kush",
+        "authors": [
+            "Eric Newby",
+            "Evelyn Waugh"
+        ],
+        "publisher": "N/A",
+        "page_count": 247,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387738186i/118141.jpg",
+        "isbn": "9781885283177",
+        "link": "https://www.goodreads.com/book/show/118141.A_Short_Walk_in_the_Hindu_Kush"
+    },
+    {
+        "title": "The Old Ways: A Journey on Foot",
+        "authors": [
+            "Robert Macfarlane"
+        ],
+        "publisher": "N/A",
+        "page_count": 433,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328811154i/13369533.jpg",
+        "isbn": "9780241143810",
+        "link": "https://www.goodreads.com/book/show/13369533-the-old-ways"
+    },
+    {
+        "title": "Lost on Planet China",
+        "authors": [
+            "J. Maarten Troost"
+        ],
+        "publisher": "N/A",
+        "page_count": 382,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1266942578i/1975116.jpg",
+        "isbn": "9780767922005",
+        "link": "https://www.goodreads.com/book/show/1975116.Lost_on_Planet_China"
+    },
+    {
+        "title": "Getting Stoned with Savages: A Trip Through the Islands of Fiji and Vanuatu",
+        "authors": [
+            "J. Maarten Troost"
+        ],
+        "publisher": "N/A",
+        "page_count": 239,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320524119i/122574.jpg",
+        "isbn": "9780767921992",
+        "link": "https://www.goodreads.com/book/show/122574.Getting_Stoned_with_Savages"
+    },
+    {
+        "title": "Tracks: A Woman&apos;s Solo Trek Across 1700 Miles of Australian Outback",
+        "authors": [
+            "Robyn Davidson"
+        ],
+        "publisher": "N/A",
+        "page_count": 288,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391414939i/78895.jpg",
+        "isbn": "9780679762874",
+        "link": "https://www.goodreads.com/book/show/78895.Tracks"
+    },
+    {
+        "title": "Riding the Iron Rooster",
+        "authors": [
+            "Paul Theroux"
+        ],
+        "publisher": "N/A",
+        "page_count": 464,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320531725i/130511.jpg",
+        "isbn": "9780804104548",
+        "link": "https://www.goodreads.com/book/show/130511.Riding_the_Iron_Rooster"
+    },
+    {
+        "title": "Kon-Tiki",
+        "authors": [
+            "Thor Heyerdahl"
+        ],
+        "publisher": "N/A",
+        "page_count": 240,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348547584i/790171.jpg",
+        "isbn": "9780671726522",
+        "link": "https://www.goodreads.com/book/show/790171.Kon_Tiki"
+    },
+    {
+        "title": "Bill Bryson&apos;s African Diary",
+        "authors": [
+            "Bill Bryson"
+        ],
+        "publisher": "N/A",
+        "page_count": 55,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388276959i/22.jpg",
+        "isbn": "9780767915069",
+        "link": "https://www.goodreads.com/book/show/22.Bill_Bryson_s_African_Diary"
+    },
+    {
+        "title": "Shantaram",
+        "authors": [
+            "Gregory David Roberts"
+        ],
+        "publisher": "N/A",
+        "page_count": 936,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1333482282i/33600.jpg",
+        "isbn": "9781920769208",
+        "link": "https://www.goodreads.com/book/show/33600.Shantaram"
+    },
+    {
+        "title": "The Year of Living Danishly: Uncovering the Secrets of the World&apos;s Happiest Country",
+        "authors": [
+            "Helen Russell"
+        ],
+        "publisher": "N/A",
+        "page_count": 304,
+        "language": "English",
+        "category": "travel",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1422925714i/23282062.jpg",
+        "isbn": "9781848318120",
+        "link": "https://www.goodreads.com/book/show/23282062-the-year-of-living-danishly"
+    },
+    {
+        "title": "And Then There Were None",
+        "authors": [
+            "Agatha Christie"
+        ],
+        "publisher": "N/A",
+        "page_count": 264,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1638425885i/16299.jpg",
+        "isbn": "9780312330873",
+        "link": "https://www.goodreads.com/book/show/16299.And_Then_There_Were_None"
+    },
+    {
+        "title": "Murder on the Orient Express (Heracule Poirot, #10)",
+        "authors": [
+            "Agatha Christie"
+        ],
+        "publisher": "N/A",
+        "page_count": 274,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1733926500i/853510.jpg",
+        "isbn": "9780007119318",
+        "link": "https://www.goodreads.com/book/show/853510.Murder_on_the_Orient_Express"
+    },
+    {
+        "title": "The Girl With the Dragon Tattoo (Millennium #1)",
+        "authors": [
+            "Stieg Larsson",
+            "Reg Keeland"
+        ],
+        "publisher": "N/A",
+        "page_count": 480,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1684638853i/2429135.jpg",
+        "isbn": "9780670069019",
+        "link": "https://www.goodreads.com/book/show/2429135.The_Girl_With_the_Dragon_Tattoo"
+    },
+    {
+        "title": "Gone Girl",
+        "authors": [
+            "Gillian Flynn"
+        ],
+        "publisher": "N/A",
+        "page_count": 415,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554086139i/19288043.jpg",
+        "isbn": "9780307588371",
+        "link": "https://www.goodreads.com/book/show/19288043-gone-girl"
+    },
+    {
+        "title": "The Girl on the Train",
+        "authors": [
+            "Paula Hawkins"
+        ],
+        "publisher": "N/A",
+        "page_count": 336,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1574805682i/22557272.jpg",
+        "isbn": "9781594633669",
+        "link": "https://www.goodreads.com/book/show/22557272-the-girl-on-the-train"
+    },
+    {
+        "title": "The da Vinci Code (Robert Langdon, #2)",
+        "authors": [
+            "Dan    Brown"
+        ],
+        "publisher": "N/A",
+        "page_count": 480,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1597798677i/55019161.jpg",
+        "isbn": "9780307277671",
+        "link": "https://www.goodreads.com/book/show/55019161-the-da-vinci-code"
+    },
+    {
+        "title": "The Silent Patient",
+        "authors": [
+            "Alex Michaelides"
+        ],
+        "publisher": "N/A",
+        "page_count": 336,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1668782119i/40097951.jpg",
+        "isbn": "9781250301697",
+        "link": "https://www.goodreads.com/book/show/40097951-the-silent-patient"
+    },
+    {
+        "title": "The Mysterious Affair at Styles (Hercule Poirot, #1)",
+        "authors": [
+            "Agatha Christie"
+        ],
+        "publisher": "N/A",
+        "page_count": 174,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585632445i/52843028.jpg",
+        "isbn": "9781734452594",
+        "link": "https://www.goodreads.com/book/show/52843028-the-mysterious-affair-at-styles"
+    },
+    {
+        "title": "One of Us Is Lying (One of Us is Lying, #1)",
+        "authors": [
+            "Karen M. McManus"
+        ],
+        "publisher": "N/A",
+        "page_count": 416,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1632078539i/58679358.jpg",
+        "isbn": "9780593565377",
+        "link": "https://www.goodreads.com/book/show/58679358-one-of-us-is-lying"
+    },
+    {
+        "title": "The Inheritance Games (The Inheritance Games, #1)",
+        "authors": [
+            "Jennifer Lynn Barnes"
+        ],
+        "publisher": "N/A",
+        "page_count": 386,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1587396413i/52439531.jpg",
+        "isbn": "9781368052405",
+        "link": "https://www.goodreads.com/book/show/52439531-the-inheritance-games"
+    },
+    {
+        "title": "The 7 1/2 Deaths of Evelyn Hardcastle",
+        "authors": [
+            "Stuart Turton"
+        ],
+        "publisher": "N/A",
+        "page_count": 432,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1506896221i/36337550.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/36337550-the-7-1-2-deaths-of-evelyn-hardcastle"
+    },
+    {
+        "title": "The Murder of Roger Ackroyd (Hercule Poirot, #4)",
+        "authors": [
+            "Agatha Christie"
+        ],
+        "publisher": "N/A",
+        "page_count": 288,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389734015i/16328.jpg",
+        "isbn": "9781579126278",
+        "link": "https://www.goodreads.com/book/show/16328.The_Murder_of_Roger_Ackroyd"
+    },
+    {
+        "title": "The Thursday Murder Club (Thursday Murder Club, #1)",
+        "authors": [
+            "Richard Osman"
+        ],
+        "publisher": "N/A",
+        "page_count": 382,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582287822i/46000520.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/46000520-the-thursday-murder-club"
+    },
+    {
+        "title": "The Cuckoo&apos;s Calling (Cormoran Strike, #1)",
+        "authors": [
+            "Robert Galbraith"
+        ],
+        "publisher": "N/A",
+        "page_count": 456,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1540217136i/16160797.jpg",
+        "isbn": "9780316206846",
+        "link": "https://www.goodreads.com/book/show/16160797-the-cuckoo-s-calling"
+    },
+    {
+        "title": "The Guest List",
+        "authors": [
+            "Lucy Foley"
+        ],
+        "publisher": "N/A",
+        "page_count": 319,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591461181i/52656911.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/52656911-the-guest-list"
+    },
+    {
+        "title": "A Study in Scarlet (Sherlock Holmes, #1)",
+        "authors": [
+            "Arthur Conan Doyle"
+        ],
+        "publisher": "N/A",
+        "page_count": 123,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1519031842i/102868.jpg",
+        "isbn": "9781420925531",
+        "link": "https://www.goodreads.com/book/show/102868.A_Study_in_Scarlet"
+    },
+    {
+        "title": "Death on the Nile (Hercule Poirot, #18)",
+        "authors": [
+            "Agatha Christie"
+        ],
+        "publisher": "N/A",
+        "page_count": 352,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1486837149i/131359.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/131359.Death_on_the_Nile"
+    },
+    {
+        "title": "In the Woods (Dublin Murder Squad, #1)",
+        "authors": [
+            "Tana French"
+        ],
+        "publisher": "N/A",
+        "page_count": 448,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1562761513i/2459785.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/2459785.In_the_Woods"
+    },
+    {
+        "title": "Still Life (Chief Inspector Armand Gamache, #1)",
+        "authors": [
+            "Louise Penny"
+        ],
+        "publisher": "N/A",
+        "page_count": 293,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1324373974i/338691.jpg",
+        "isbn": "9780312948559",
+        "link": "https://www.goodreads.com/book/show/338691.Still_Life"
+    },
+    {
+        "title": "The Hound of the Baskervilles (Sherlock Holmes, #5)",
+        "authors": [
+            "Arthur Conan Doyle",
+            "Anne Perry",
+            "Mark Hallaq"
+        ],
+        "publisher": "N/A",
+        "page_count": 256,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355929358i/8921.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/8921.The_Hound_of_the_Baskervilles"
+    },
+    {
+        "title": "The Girl Who Played With Fire (Millennium #2)",
+        "authors": [
+            "Stieg Larsson",
+            "Reg Keeland"
+        ],
+        "publisher": "N/A",
+        "page_count": 503,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1351778881i/5060378.jpg",
+        "isbn": "9780307269980",
+        "link": "https://www.goodreads.com/book/show/5060378-the-girl-who-played-with-fire"
+    },
+    {
+        "title": "Sharp Objects",
+        "authors": [
+            "Gillian Flynn"
+        ],
+        "publisher": "N/A",
+        "page_count": 254,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1475695315i/18045891.jpg",
+        "isbn": "9780297851530",
+        "link": "https://www.goodreads.com/book/show/18045891-sharp-objects"
+    },
+    {
+        "title": "The Maid (Molly the Maid, #1)",
+        "authors": [
+            "Nita Prose"
+        ],
+        "publisher": "N/A",
+        "page_count": 304,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1643228739i/55196813.jpg",
+        "isbn": "9780593356159",
+        "link": "https://www.goodreads.com/book/show/55196813-the-maid"
+    },
+    {
+        "title": "The Sweetness at the Bottom of the Pie (Flavia de Luce, #1)",
+        "authors": [
+            "Alan Bradley"
+        ],
+        "publisher": "N/A",
+        "page_count": 386,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529610868i/40605285.jpg",
+        "isbn": "9780440338468",
+        "link": "https://www.goodreads.com/book/show/40605285-the-sweetness-at-the-bottom-of-the-pie"
+    },
+    {
+        "title": "Where the Crawdads Sing",
+        "authors": [
+            "Delia Owens"
+        ],
+        "publisher": "N/A",
+        "page_count": 384,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582135294i/36809135.jpg",
+        "isbn": "9780735219113",
+        "link": "https://www.goodreads.com/book/show/36809135-where-the-crawdads-sing"
+    },
+    {
+        "title": "Truly, Devious (Truly Devious, #1)",
+        "authors": [
+            "Maureen Johnson"
+        ],
+        "publisher": "N/A",
+        "page_count": 416,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1498501619i/29589074.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/29589074-truly-devious"
+    },
+    {
+        "title": "Good Girl, Bad Blood (A Good Girl&apos;s Guide to Murder, #2)",
+        "authors": [
+            "Holly  Jackson"
+        ],
+        "publisher": "N/A",
+        "page_count": 413,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1588319723i/51335759.jpg",
+        "isbn": "9781405297752",
+        "link": "https://www.goodreads.com/book/show/51335759-good-girl-bad-blood"
+    },
+    {
+        "title": "The A.B.C. Murders (Hercule Poirot, #13)",
+        "authors": [
+            "Agatha Christie"
+        ],
+        "publisher": "N/A",
+        "page_count": 232,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389733983i/16322.jpg",
+        "isbn": "9781579126247",
+        "link": "https://www.goodreads.com/book/show/16322.The_A_B_C_Murders"
+    },
+    {
+        "title": "The Adventures of Sherlock Holmes (Sherlock Holmes, #3)",
+        "authors": [
+            "Arthur Conan Doyle"
+        ],
+        "publisher": "N/A",
+        "page_count": 389,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1164045516i/3590.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/3590.The_Adventures_of_Sherlock_Holmes"
+    },
+    {
+        "title": "We Were Liars",
+        "authors": [
+            "E. Lockhart"
+        ],
+        "publisher": "N/A",
+        "page_count": 242,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1402749479i/16143347.jpg",
+        "isbn": "9780385741279",
+        "link": "https://www.goodreads.com/book/show/16143347-we-were-liars"
+    },
+    {
+        "title": "Murder at the Vicarage (Miss Marple, #1)",
+        "authors": [
+            "Agatha Christie"
+        ],
+        "publisher": "N/A",
+        "page_count": 288,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388386575i/16331.jpg",
+        "isbn": "9781579126254",
+        "link": "https://www.goodreads.com/book/show/16331.Murder_at_the_Vicarage"
+    },
+    {
+        "title": "Rebecca",
+        "authors": [
+            "Daphne du Maurier"
+        ],
+        "publisher": "N/A",
+        "page_count": 449,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386605169i/17899948.jpg",
+        "isbn": "9780316323703",
+        "link": "https://www.goodreads.com/book/show/17899948-rebecca"
+    },
+    {
+        "title": "The Girl Who Kicked the Hornet’s Nest (Millennium, #3)",
+        "authors": [
+            "Stieg Larsson",
+            "Reg Keeland"
+        ],
+        "publisher": "N/A",
+        "page_count": 566,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327708260i/6892870.jpg",
+        "isbn": "9780307269997",
+        "link": "https://www.goodreads.com/book/show/6892870-the-girl-who-kicked-the-hornet-s-nest"
+    },
+    {
+        "title": "Dark Places",
+        "authors": [
+            "Gillian Flynn"
+        ],
+        "publisher": "N/A",
+        "page_count": 424,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1354988288i/5886881.jpg",
+        "isbn": "9780307341563",
+        "link": "https://www.goodreads.com/book/show/5886881-dark-places"
+    },
+    {
+        "title": "One for the Money (Stephanie Plum, #1)",
+        "authors": [
+            "Janet Evanovich"
+        ],
+        "publisher": "N/A",
+        "page_count": 320,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1316730230i/6853.jpg",
+        "isbn": "9780312362089",
+        "link": "https://www.goodreads.com/book/show/6853.One_for_the_Money"
+    },
+    {
+        "title": "The Secret History",
+        "authors": [
+            "Donna Tartt"
+        ],
+        "publisher": "N/A",
+        "page_count": 559,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1451554846i/29044.jpg",
+        "isbn": "9781400031702",
+        "link": "https://www.goodreads.com/book/show/29044.The_Secret_History"
+    },
+    {
+        "title": "The Silkworm (Cormoran Strike, #2)",
+        "authors": [
+            "Robert Galbraith",
+            "J.K. Rowling"
+        ],
+        "publisher": "N/A",
+        "page_count": 464,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1540217126i/18214414.jpg",
+        "isbn": "9780316206877",
+        "link": "https://www.goodreads.com/book/show/18214414-the-silkworm"
+    },
+    {
+        "title": "The Woman in Cabin 10",
+        "authors": [
+            "Ruth Ware"
+        ],
+        "publisher": "N/A",
+        "page_count": 341,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465878007i/28187230.jpg",
+        "isbn": "9781501132933",
+        "link": "https://www.goodreads.com/book/show/28187230-the-woman-in-cabin-10"
+    },
+    {
+        "title": "The Hawthorne Legacy (The Inheritance Games, #2)",
+        "authors": [
+            "Jennifer Lynn Barnes"
+        ],
+        "publisher": "N/A",
+        "page_count": 380,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610493390i/50531218.jpg",
+        "isbn": "9780241480748",
+        "link": "https://www.goodreads.com/book/show/50531218-the-hawthorne-legacy"
+    },
+    {
+        "title": "Verity",
+        "authors": [
+            "Colleen Hoover"
+        ],
+        "publisher": "N/A",
+        "page_count": 336,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634158558i/59344312.jpg",
+        "isbn": "9781538724743",
+        "link": "https://www.goodreads.com/book/show/59344312-verity"
+    },
+    {
+        "title": "If We Were Villains",
+        "authors": [
+            "M.L. Rio"
+        ],
+        "publisher": "N/A",
+        "page_count": 354,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1480717682i/30319086.jpg",
+        "isbn": "9781250095282",
+        "link": "https://www.goodreads.com/book/show/30319086-if-we-were-villains"
+    },
+    {
+        "title": "The Westing Game",
+        "authors": [
+            "Ellen Raskin"
+        ],
+        "publisher": "N/A",
+        "page_count": 182,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356850909i/902.jpg",
+        "isbn": "9780142401200",
+        "link": "https://www.goodreads.com/book/show/902.The_Westing_Game"
+    },
+    {
+        "title": "Magpie Murders (Susan Ryeland, #1)",
+        "authors": [
+            "Anthony Horowitz"
+        ],
+        "publisher": "N/A",
+        "page_count": 477,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1504599398i/32075854.jpg",
+        "isbn": "9780062645227",
+        "link": "https://www.goodreads.com/book/show/32075854-magpie-murders"
+    },
+    {
+        "title": "The Shadow of the Wind (The Cemetery of Forgotten Books, #1)",
+        "authors": [
+            "Carlos Ruiz Zafón",
+            "Lucia Graves"
+        ],
+        "publisher": "N/A",
+        "page_count": 487,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1628791882i/1232.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/1232.The_Shadow_of_the_Wind"
+    },
+    {
+        "title": "The No. 1 Ladies&apos; Detective Agency (No. 1 Ladies&apos; Detective Agency, #1)",
+        "authors": [
+            "Alexander McCall Smith"
+        ],
+        "publisher": "N/A",
+        "page_count": 235,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1459953654i/7061.jpg",
+        "isbn": "9781400034772",
+        "link": "https://www.goodreads.com/book/show/7061.The_No_1_Ladies_Detective_Agency"
+    },
+    {
+        "title": "The Last Thing He Told Me",
+        "authors": [
+            "Laura Dave"
+        ],
+        "publisher": "N/A",
+        "page_count": 307,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1603034599i/54981009.jpg",
+        "isbn": "9781501171345",
+        "link": "https://www.goodreads.com/book/show/54981009-the-last-thing-he-told-me"
+    },
+    {
+        "title": "The Woman in the Window",
+        "authors": [
+            "A.J. Finn"
+        ],
+        "publisher": "N/A",
+        "page_count": 455,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1528225499i/40389527.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/40389527-the-woman-in-the-window"
+    },
+    {
+        "title": "The Lost Symbol (Robert Langdon, #3)",
+        "authors": [
+            "Dan    Brown"
+        ],
+        "publisher": "N/A",
+        "page_count": 509,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1534070883i/6411961.jpg",
+        "isbn": "9780385504225",
+        "link": "https://www.goodreads.com/book/show/6411961-the-lost-symbol"
+    },
+    {
+        "title": "The Curious Incident of the Dog in the Night-Time",
+        "authors": [
+            "Mark Haddon"
+        ],
+        "publisher": "N/A",
+        "page_count": 226,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1479863624i/1618.jpg",
+        "isbn": "9781400032716",
+        "link": "https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time"
+    },
+    {
+        "title": "The Sign of Four (Sherlock Holmes, #2)",
+        "authors": [
+            "Arthur Conan Doyle",
+            "Peter Ackroyd"
+        ],
+        "publisher": "N/A",
+        "page_count": 129,
+        "language": "English",
+        "category": "mystery",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1299346921i/608474.jpg",
+        "isbn": "N/A",
+        "link": "https://www.goodreads.com/book/show/608474.The_Sign_of_Four"
+    }
+]
