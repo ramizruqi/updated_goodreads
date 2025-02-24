@@ -16,7 +16,7 @@ def get_mongo_uri():
     """Loads and returns the MongoDB URI from the .env file."""
     load_dotenv(".env")  # Load environment variables from .env
     mongo_uri = os.getenv("MONGO_URI")  # Retrieve the URI
-    
+
     if not mongo_uri:
         raise ValueError("MONGO_URI not found in .env file!")
 
@@ -66,7 +66,7 @@ def old_place_book_in_mongo(books_df, mongo_uri=None, db_name="test", collection
         db = client[db_name]
         collection = db[collection_name]
         result = collection.insert_many(books_list)
-        print(f"✅ {len(result.inserted_ids)} book(s) added.")
+        print(f":white_check_mark: {len(result.inserted_ids)} book(s) added.")
 
         collection.create_index([
             ("authors", "text"),
@@ -114,7 +114,6 @@ def fetch_book_details(book_url, genre):
     else:
         return {"error": f"Failed to find script tag with JSON data for {book_url}"}
 
-
 # Function to import data from MongoDB
 def import_from_mongo(mongo_uri):
     client = MongoClient(mongo_uri)
@@ -124,7 +123,6 @@ def import_from_mongo(mongo_uri):
     df = pd.DataFrame(data)
     return df
 
-
 # Function to remove a book from MongoDB by ID
 def remove_selection_from_mongo(mongo_ID, mongo_uri, db_name, collection_name):
     client = MongoClient(mongo_uri)
@@ -133,7 +131,6 @@ def remove_selection_from_mongo(mongo_ID, mongo_uri, db_name, collection_name):
     result = collection.delete_one({"_id": ObjectId(mongo_ID)})
     return result.deleted_count > 0
 
-
 def check_correct_mongo_ID(mongo_ID):
     if not mongo_ID:
         return None
@@ -141,7 +138,6 @@ def check_correct_mongo_ID(mongo_ID):
         return ObjectId(mongo_ID)  # Convert safely
     except errors.InvalidId:
         return None
-
 
 # Load environment variables from .env file
 #load_dotenv(".env")
@@ -195,7 +191,6 @@ def get_selected_books():
 
     return jsonify(df.to_dict(orient="records"))
 
-
 @app.route('/remove_by_ID', methods=['POST'])
 def remove_by_ID():
     data = request.get_json()
@@ -208,11 +203,6 @@ def remove_by_ID():
     if book_removed:
         return jsonify({"message": "Book removed"})
     return jsonify({"message": "Wrong ID, nothing happened!"})
-
-def get_mongo_uri():
-    # Replace with your actual MongoDB URI
-    mongo_uri = get_mongo_uri()
-    return mongo_uri
 
 if __name__ == '__main__':
     app.run(debug=True, threaded=True)
